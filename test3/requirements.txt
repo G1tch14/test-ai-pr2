@@ -1,0 +1,2 @@
+# Python dependencies for the console application
+# No external dependencies required for this simple app
