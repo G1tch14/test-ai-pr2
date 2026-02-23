@@ -18,7 +18,7 @@ def test_hello_world_output():
     expected_output = "Hello, World!\n"
     assert result.stdout == expected_output, f"Expected '{expected_output}', got '{result.stdout}'"
     
-    print("✓ All tests passed!")
+    print("All tests passed!")
 
 if __name__ == "__main__":
     test_hello_world_output()
