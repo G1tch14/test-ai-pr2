@@ -1,0 +1,26 @@
+{
+  "99cdb644-a466-47da-a53a-42c5925ee8f8" : {
+    "id" : "99cdb644-a466-47da-a53a-42c5925ee8f8",
+    "projectId" : "40e94b0e-f7a6-46d6-9dfb-b0c13d8fde11",
+    "type" : "GITHUB",
+    "enabled" : true,
+    "settings" : {
+      "owner" : "G1tch14",
+      "tokenEnc" : "yBrY8MYbJPaLP93yO0cHkOr/iisaO+2wpCjpqou0dehHO8fMB4xjgodJsIephEgHzWH54q7Ty1xyBwGb5v+Ai+1Ak0WmQtbyU0vgTGugArmseSjE",
+      "repo" : "viwer",
+      "defaultBranch" : "master"
+    }
+  },
+  "3aad1caf-74f7-47eb-b1aa-d14e479cbad5" : {
+    "id" : "3aad1caf-74f7-47eb-b1aa-d14e479cbad5",
+    "projectId" : "42f140af-844b-4a81-9009-d4998aa5cebc",
+    "type" : "GITHUB",
+    "enabled" : true,
+    "settings" : {
+      "owner" : "G1tch14",
+      "tokenEnc" : "qnzg/8FtWQvtmnedfLdQIEoT/0dVyv9BW/5MnQBLBpAdN7Bf0uOeleO9edi2FZon7mgXGGRegZJQ4jqDZ+Vopxn/PQW8/p+3LxpUqbMxp16M7t0h",
+      "repo" : "test-ai-pr",
+      "defaultBranch" : "main"
+    }
+  }
+}

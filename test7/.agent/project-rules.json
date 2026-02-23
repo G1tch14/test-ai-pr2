@@ -1,0 +1,23 @@
+{
+  "forbidden" : [ "Never commit secrets, tokens, or credentials to code", "Never write business logic in controllers", "Never make direct SQL queries bypassing repositories", "Never ignore checked exceptions (no empty catch blocks)", "Never merge to master without passing tests", "Never use System.out.println in production code", "Never hardcode configuration (URLs, ports, credentials)" ],
+  "backend" : [ "Follow layered architecture: controller → service → repository", "Use DTOs for API request/response, never expose domain entities directly", "All service methods must be transactional where appropriate", "Use dependency injection, avoid manual instantiation" ],
+  "frontend" : [ "Use functional components with hooks", "Keep components small and focused (single responsibility)", "Use TypeScript strict mode", "Separate business logic from UI components" ],
+  "infrastructure" : [ "All configuration via environment variables or config files", "Use Docker for containerization", "Database migrations must be versioned and reversible", "Logging must use structured format (SLF4J/Logback)" ],
+  "security" : [ "Validate and sanitize all user input", "Use parameterized queries to prevent SQL injection", "Encrypt sensitive data at rest and in transit", "Implement proper authentication and authorization checks" ],
+  "testing" : [ "Unit tests required for all service methods", "Integration tests required for all API endpoints", "Minimum test coverage: 80%", "Use mocks for external dependencies in unit tests" ],
+  "code_style" : {
+    "naming" : {
+      "classes" : "PascalCase",
+      "methods" : "camelCase",
+      "constants" : "UPPER_SNAKE_CASE"
+    },
+    "max_method_lines" : 30,
+    "javadoc" : "required for all public methods",
+    "magic_numbers" : "forbidden, use named constants"
+  },
+  "architecture" : {
+    "structure" : [ "controller", "service", "repository", "domain", "config" ],
+    "rules" : [ "controller cannot access repository directly", "service cannot depend on controller", "cyclic dependencies are forbidden" ]
+  },
+  "custom_rules" : [ "Use record instead of POJO where possible", "Prefer functional style (stream API)" ]
+}

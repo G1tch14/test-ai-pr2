@@ -1,0 +1,20 @@
+{
+  "cc004f5c-f847-4967-8a6a-36d7d35e891d" : {
+    "id" : "cc004f5c-f847-4967-8a6a-36d7d35e891d",
+    "projectId" : "40e94b0e-f7a6-46d6-9dfb-b0c13d8fde11",
+    "providerType" : "DEEPSEEK",
+    "model" : "deepseek-chat",
+    "encryptedApiKey" : "d9iqvFOPcieQLLqE3SY7j9+XAJK3+jxligW7Hx16bcNW+OT/EM0Aar+RQTFGHkJMMfxUqVVQW5uJuvBc7d4IuuUUd9Z5NJkVkfuw3oBW5A==",
+    "baseUrl" : null,
+    "defaultProvider" : true
+  },
+  "5aaae66c-bf62-4271-a147-9025524ad5f9" : {
+    "id" : "5aaae66c-bf62-4271-a147-9025524ad5f9",
+    "projectId" : "42f140af-844b-4a81-9009-d4998aa5cebc",
+    "providerType" : "DEEPSEEK",
+    "model" : "deepseek-chat",
+    "encryptedApiKey" : "lI+da5hb/QSh1iyaGFO6g1jj2NIt2EsPw6FzY/yXGngwO/8WIQ7bg+Dq1N5QMgCNn1rQYSyr8RTpWaDRCFmbs+QSyu3A48LJLfTOR3/2+Q==",
+    "baseUrl" : null,
+    "defaultProvider" : true
+  }
+}
