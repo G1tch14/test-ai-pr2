@@ -1,0 +1,18 @@
+{
+  "TASK-12C7E6AE" : {
+    "id" : "TASK-12C7E6AE",
+    "projectId" : "995377c1-78c9-4e15-b658-d1b573555a61",
+    "title" : "Console app1",
+    "description" : "Create console app to print  hello world in console",
+    "priority" : 5,
+    "status" : "IN_PROGRESS",
+    "dependencies" : [ ],
+    "assignedAgentId" : "dev-agent-1",
+    "branchName" : "feature/task-12c7e6ae",
+    "prNumber" : null,
+    "prUrl" : null,
+    "errorMessage" : null,
+    "createdAt" : "2026-02-23T14:29:52.483540700Z",
+    "updatedAt" : "2026-02-23T14:29:52.483540700Z"
+  }
+}

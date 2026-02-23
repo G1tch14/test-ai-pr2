@@ -1,0 +1,15 @@
+{
+  "995377c1-78c9-4e15-b658-d1b573555a61" : {
+    "id" : "995377c1-78c9-4e15-b658-d1b573555a61",
+    "name" : "test4",
+    "description" : "hello world",
+    "techStack" : "java",
+    "architectMode" : "AI",
+    "maxParallelAgents" : 3,
+    "projectPath" : "D:/work/test/test4",
+    "githubRepoUrl" : null,
+    "createdAt" : "2026-02-23T14:29:01.971460700Z",
+    "updatedAt" : "2026-02-23T14:29:01.971460700Z",
+    "agentProviderMapping" : { }
+  }
+}
