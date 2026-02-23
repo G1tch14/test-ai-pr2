@@ -1,0 +1,32 @@
+# Expected output when running the Java console application:
+
+$ javac HelloWorld.java
+$ java HelloWorld
+Hello, World!
+
+# Or using the provided scripts:
+
+# On Windows:
+$ build.bat
+Building Java Console Application...
+Build successful!
+
+To run the application, use: java HelloWorld
+
+$ run.bat
+Running Java Console Application...
+
+Hello, World!
+
+# On Unix/Linux/Mac:
+$ chmod +x build.sh run.sh test_java.sh
+$ ./build.sh
+Building Java Console Application...
+Build successful!
+
+To run the application, use: java HelloWorld
+
+$ ./run.sh
+Running Java Console Application...
+
+Hello, World!
