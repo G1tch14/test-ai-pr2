@@ -162,6 +162,7 @@ public class Job {
     /**
      * Сравнивает данный объект с другим объектом на равенство.
      * Две вакансии считаются равными, если у них одинаковый идентификатор.
+     * Если идентификатор равен null, объекты не считаются равными.
      * 
      * @param o объект для сравнения
      * @return true если объекты равны, false в противном случае
@@ -171,6 +172,8 @@ public class Job {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Job job = (Job) o;
+        // Если id равен null, объекты не равны (даже если оба id равны null)
+        if (id == null || job.id == null) return false;
         return Objects.equals(id, job.id);
     }
     
