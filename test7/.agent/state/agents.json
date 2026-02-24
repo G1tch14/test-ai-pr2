@@ -1,0 +1,74 @@
+{
+  "dev-agent-2" : {
+    "id" : "dev-agent-2",
+    "projectId" : "42f140af-844b-4a81-9009-d4998aa5cebc",
+    "type" : "DEVELOPER",
+    "status" : "IDLE",
+    "providerConfigId" : null,
+    "currentTaskId" : null,
+    "retryCount" : 0,
+    "maxRetries" : 3,
+    "createdAt" : "2026-02-23T22:58:39.001789100Z",
+    "updatedAt" : "2026-02-23T22:58:39.001789100Z"
+  },
+  "dev-agent-0" : {
+    "id" : "dev-agent-0",
+    "projectId" : "42f140af-844b-4a81-9009-d4998aa5cebc",
+    "type" : "DEVELOPER",
+    "status" : "IDLE",
+    "providerConfigId" : null,
+    "currentTaskId" : null,
+    "retryCount" : 0,
+    "maxRetries" : 3,
+    "createdAt" : "2026-02-23T22:58:39.001789100Z",
+    "updatedAt" : "2026-02-23T22:58:39.001789100Z"
+  },
+  "dev-agent-1" : {
+    "id" : "dev-agent-1",
+    "projectId" : "42f140af-844b-4a81-9009-d4998aa5cebc",
+    "type" : "DEVELOPER",
+    "status" : "WORKING",
+    "providerConfigId" : null,
+    "currentTaskId" : "TASK-948A9766",
+    "retryCount" : 0,
+    "maxRetries" : 3,
+    "createdAt" : "2026-02-23T22:58:39.001789100Z",
+    "updatedAt" : "2026-02-23T22:58:39.017787800Z"
+  },
+  "architect-preview-42f140af" : {
+    "id" : "architect-preview-42f140af",
+    "projectId" : "42f140af-844b-4a81-9009-d4998aa5cebc",
+    "type" : "ARCHITECT",
+    "status" : "IDLE",
+    "providerConfigId" : null,
+    "currentTaskId" : null,
+    "retryCount" : 0,
+    "maxRetries" : 3,
+    "createdAt" : "2026-02-23T22:57:49.839783800Z",
+    "updatedAt" : "2026-02-23T22:58:26.528460200Z"
+  },
+  "architect-preview-40e94b0e" : {
+    "id" : "architect-preview-40e94b0e",
+    "projectId" : "40e94b0e-f7a6-46d6-9dfb-b0c13d8fde11",
+    "type" : "ARCHITECT",
+    "status" : "IDLE",
+    "providerConfigId" : null,
+    "currentTaskId" : null,
+    "retryCount" : 0,
+    "maxRetries" : 3,
+    "createdAt" : "2026-02-23T22:10:06.587538200Z",
+    "updatedAt" : "2026-02-23T22:11:21.369720400Z"
+  },
+  "ba-agent-40e94b0e" : {
+    "id" : "ba-agent-40e94b0e",
+    "projectId" : "40e94b0e-f7a6-46d6-9dfb-b0c13d8fde11",
+    "type" : "BA",
+    "status" : "IDLE",
+    "providerConfigId" : null,
+    "currentTaskId" : null,
+    "retryCount" : 0,
+    "maxRetries" : 3,
+    "createdAt" : "2026-02-23T18:56:40.336489400Z",
+    "updatedAt" : "2026-02-23T19:01:46.381092500Z"
+  }
+}

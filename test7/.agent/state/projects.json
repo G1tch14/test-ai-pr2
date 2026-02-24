@@ -1,0 +1,28 @@
+{
+  "42f140af-844b-4a81-9009-d4998aa5cebc" : {
+    "id" : "42f140af-844b-4a81-9009-d4998aa5cebc",
+    "name" : "test7",
+    "description" : "",
+    "techStack" : "Java 21,maven",
+    "architectMode" : "AI",
+    "maxParallelAgents" : 3,
+    "projectPath" : "D:\\work\\test\\test7",
+    "githubRepoUrl" : null,
+    "createdAt" : "2026-02-23T22:53:58.517899600Z",
+    "updatedAt" : "2026-02-23T22:53:58.517899600Z",
+    "agentProviderMapping" : { }
+  },
+  "40e94b0e-f7a6-46d6-9dfb-b0c13d8fde11" : {
+    "id" : "40e94b0e-f7a6-46d6-9dfb-b0c13d8fde11",
+    "name" : "viwer",
+    "description" : "Project at D:\\work\\viwer",
+    "techStack" : "",
+    "architectMode" : "AI",
+    "maxParallelAgents" : 3,
+    "projectPath" : "D:\\work\\viwer",
+    "githubRepoUrl" : null,
+    "createdAt" : "2026-02-23T16:09:51.671731500Z",
+    "updatedAt" : "2026-02-23T16:09:51.671731500Z",
+    "agentProviderMapping" : { }
+  }
+}
