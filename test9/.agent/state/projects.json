@@ -1,0 +1,15 @@
+{
+  "587e484e-5ff6-4422-b12b-95a3a0034a51" : {
+    "id" : "587e484e-5ff6-4422-b12b-95a3a0034a51",
+    "name" : "test9",
+    "description" : "test",
+    "techStack" : "java",
+    "architectMode" : "AI",
+    "maxParallelAgents" : 3,
+    "projectPath" : "D:\\work\\test\\test9",
+    "githubRepoUrl" : null,
+    "createdAt" : "2026-02-24T00:20:28.217855300Z",
+    "updatedAt" : "2026-02-24T00:20:28.217855300Z",
+    "agentProviderMapping" : { }
+  }
+}

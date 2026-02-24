@@ -1,0 +1,50 @@
+{
+  "architect-preview-587e484e" : {
+    "id" : "architect-preview-587e484e",
+    "projectId" : "587e484e-5ff6-4422-b12b-95a3a0034a51",
+    "type" : "ARCHITECT",
+    "status" : "IDLE",
+    "providerConfigId" : null,
+    "currentTaskId" : null,
+    "retryCount" : 0,
+    "maxRetries" : 3,
+    "createdAt" : "2026-02-24T00:22:53.860081600Z",
+    "updatedAt" : "2026-02-24T00:23:37.404706400Z"
+  },
+  "dev-agent-2" : {
+    "id" : "dev-agent-2",
+    "projectId" : "587e484e-5ff6-4422-b12b-95a3a0034a51",
+    "type" : "DEVELOPER",
+    "status" : "WORKING",
+    "providerConfigId" : null,
+    "currentTaskId" : "TASK-B2010B82",
+    "retryCount" : 0,
+    "maxRetries" : 3,
+    "createdAt" : "2026-02-24T00:24:41.260176400Z",
+    "updatedAt" : "2026-02-24T00:24:41.296310200Z"
+  },
+  "dev-agent-0" : {
+    "id" : "dev-agent-0",
+    "projectId" : "587e484e-5ff6-4422-b12b-95a3a0034a51",
+    "type" : "DEVELOPER",
+    "status" : "IDLE",
+    "providerConfigId" : null,
+    "currentTaskId" : null,
+    "retryCount" : 0,
+    "maxRetries" : 3,
+    "createdAt" : "2026-02-24T00:24:41.260176400Z",
+    "updatedAt" : "2026-02-24T00:24:41.260176400Z"
+  },
+  "dev-agent-1" : {
+    "id" : "dev-agent-1",
+    "projectId" : "587e484e-5ff6-4422-b12b-95a3a0034a51",
+    "type" : "DEVELOPER",
+    "status" : "IDLE",
+    "providerConfigId" : null,
+    "currentTaskId" : null,
+    "retryCount" : 0,
+    "maxRetries" : 3,
+    "createdAt" : "2026-02-24T00:24:41.260176400Z",
+    "updatedAt" : "2026-02-24T00:24:41.260176400Z"
+  }
+}
