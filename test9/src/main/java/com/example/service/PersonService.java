@@ -1,6 +1,8 @@
 package com.example.service;
 
 import com.example.model.Person;
+import org.springframework.stereotype.Service;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -13,6 +15,7 @@ import java.util.regex.Pattern;
  * Предоставляет CRUD операции с использованием in-memory хранилища.
  * Включает валидацию данных.
  */
+@Service
 public class PersonService {
     
     /** In-memory хранилище для объектов Person */
