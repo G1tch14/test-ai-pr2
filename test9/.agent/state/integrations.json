@@ -1,0 +1,14 @@
+{
+  "1e22ccae-11de-431e-b35c-0e5164d190f0" : {
+    "id" : "1e22ccae-11de-431e-b35c-0e5164d190f0",
+    "projectId" : "587e484e-5ff6-4422-b12b-95a3a0034a51",
+    "type" : "GITHUB",
+    "enabled" : true,
+    "settings" : {
+      "owner" : "G1tch14",
+      "tokenEnc" : "Ws1HlUvkdfoKRyOMcPq+fU34X6UdEFoFDJCVxVBCW2bB3If+o3Cq0PqQxeOmp8PoGDiy4lV0XeSgUJSFal05yFlJh7tSh9SblWlohD+baEbgIB1k",
+      "repo" : "test-ai-pr2",
+      "defaultBranch" : "main"
+    }
+  }
+}
