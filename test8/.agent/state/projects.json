@@ -1,0 +1,15 @@
+{
+  "2eea8a93-7fe0-4ca5-bc72-0ec98ed31b7b" : {
+    "id" : "2eea8a93-7fe0-4ca5-bc72-0ec98ed31b7b",
+    "name" : "test8",
+    "description" : "console test app",
+    "techStack" : "java, maven",
+    "architectMode" : "AI",
+    "maxParallelAgents" : 3,
+    "projectPath" : "D:\\work\\test\\test8",
+    "githubRepoUrl" : null,
+    "createdAt" : "2026-02-23T23:16:05.566842100Z",
+    "updatedAt" : "2026-02-23T23:16:05.566842100Z",
+    "agentProviderMapping" : { }
+  }
+}
