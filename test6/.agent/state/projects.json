@@ -1,0 +1,15 @@
+{
+  "226e5b04-4e9f-40bd-ba2e-758f0d2ee7f3" : {
+    "id" : "226e5b04-4e9f-40bd-ba2e-758f0d2ee7f3",
+    "name" : "test6",
+    "description" : "index.html",
+    "techStack" : "html",
+    "architectMode" : "AI",
+    "maxParallelAgents" : 3,
+    "projectPath" : "D:/work/test/test6",
+    "githubRepoUrl" : null,
+    "createdAt" : "2026-02-23T14:58:38.997774Z",
+    "updatedAt" : "2026-02-23T14:58:38.997774Z",
+    "agentProviderMapping" : { }
+  }
+}

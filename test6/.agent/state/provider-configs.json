@@ -1,0 +1,11 @@
+{
+  "dcef0bb1-69eb-43e1-b8a6-c60e647e6828" : {
+    "id" : "dcef0bb1-69eb-43e1-b8a6-c60e647e6828",
+    "projectId" : "226e5b04-4e9f-40bd-ba2e-758f0d2ee7f3",
+    "providerType" : "DEEPSEEK",
+    "model" : "deepseek-chat",
+    "encryptedApiKey" : "qfsAId3tIkT3MRfqSBOveYKjfKyD/A0OfCB7ypTDCu6JoYq8Y07VS8vi/JEPhVML/Y6+uzQYrZ0AgI67bqPIFPwP3HuhRx6gK9J6fj8H3w==",
+    "baseUrl" : null,
+    "defaultProvider" : true
+  }
+}

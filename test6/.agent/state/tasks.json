@@ -1,0 +1,34 @@
+{
+  "TASK-456533AB" : {
+    "id" : "TASK-456533AB",
+    "projectId" : "226e5b04-4e9f-40bd-ba2e-758f0d2ee7f3",
+    "title" : "test",
+    "description" : "test",
+    "priority" : 5,
+    "status" : "IN_PROGRESS",
+    "dependencies" : [ ],
+    "assignedAgentId" : "dev-agent-0",
+    "branchName" : "feature/task-456533ab",
+    "prNumber" : null,
+    "prUrl" : null,
+    "errorMessage" : null,
+    "createdAt" : "2026-02-23T15:15:05.573996200Z",
+    "updatedAt" : "2026-02-23T15:15:05.573996200Z"
+  },
+  "TASK-B9E26647" : {
+    "id" : "TASK-B9E26647",
+    "projectId" : "226e5b04-4e9f-40bd-ba2e-758f0d2ee7f3",
+    "title" : "index.html",
+    "description" : "Создай обычный склилет индекс штмль и ничего большего",
+    "priority" : 5,
+    "status" : "IN_REVIEW",
+    "dependencies" : [ ],
+    "assignedAgentId" : "dev-agent-2",
+    "branchName" : "feature/task-b9e26647",
+    "prNumber" : 1,
+    "prUrl" : "https://github.com/G1tch14/test-ai-pr2/pull/1",
+    "errorMessage" : null,
+    "createdAt" : "2026-02-23T14:59:30.171610200Z",
+    "updatedAt" : "2026-02-23T15:00:44.032462Z"
+  }
+}
